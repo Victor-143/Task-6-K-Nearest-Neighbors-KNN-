@@ -26,12 +26,6 @@ We use the **`load_iris`** dataset from `sklearn.datasets`.
 
 ---
 
-## ⚙️ Requirements
-Install required libraries:
-```bash
-pip install pandas matplotlib seaborn scikit-learn
----
-
 ## ⚙️ Steps Performed
 1. **Data Loading & Preprocessing**  
    - Read the CSV file into a Pandas DataFrame.  
